@@ -4,6 +4,7 @@
   "description": "React test tut bil Leha",
   "main": "index.js",
   "scripts": {
+    "build" : "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +25,8 @@
   "homepage": "https://github.com/mavlad48/test#readme",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
   }
 }
