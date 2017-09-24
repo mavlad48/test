@@ -4,7 +4,8 @@
   "description": "React test tut bil Leha",
   "main": "index.js",
   "scripts": {
-    "build" : "webpack",
+    "build": "webpack",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,6 +28,8 @@
     "jquery": "^3.2.1"
   },
   "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-plugin-react": "^7.3.0",
     "webpack": "^3.6.0"
   }
 }
