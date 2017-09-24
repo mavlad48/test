@@ -1,0 +1,25 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "React test tut bil Leha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavlad48/test.git"
+  },
+  "keywords": [
+    "test",
+    "react",
+    "leha",
+    "study"
+  ],
+  "author": "Leha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavlad48/test/issues"
+  },
+  "homepage": "https://github.com/mavlad48/test#readme"
+}
